@@ -6,7 +6,7 @@ def sub(a, b):
 
 if __name__ == '__main__':
     i = 12
-    j = 3
+    j = 6
 
     add(i, j)
     sub(i, j)
